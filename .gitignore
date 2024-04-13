@@ -1,0 +1,5 @@
+airflow/logs
+airflow/config
+airflow/plugins
+
+.env
